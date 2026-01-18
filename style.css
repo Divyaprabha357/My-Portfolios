@@ -38,7 +38,6 @@ body{
     color: Pink;
     padding: 10px;
     margin:5px;
-
 }
 .Content{
     display:flex;
@@ -48,12 +47,7 @@ body{
     flex-direction: row;
     justify-content:space-around;
     flex-wrap: wrap;
-
-    
-    
-
 }
-
 .games{
   
 
@@ -63,13 +57,10 @@ body{
     padding: 30px;
     margin: 25px;
     width:310px;
-
 }
-
 .h3{
     font-family: 'Times New Roman';
     font-style: normal;
-
 }
 a:link{
     color:#ffffff
@@ -77,5 +68,6 @@ a:link{
 a:visited{
     color:#ffffff
 }
+
 
 
